@@ -1,7 +1,7 @@
 # Cronograma:  2024-2 SIS  
   
 Local:  Remoto (MS-Teams)  
-Dia da semana:  Terças (20:20\~22:00)  
+Dia da semana:  Segundas (20:20\~22:00)  
   
 <!-- [ ] Aviso: Inicio das aulas <> -->  
   
