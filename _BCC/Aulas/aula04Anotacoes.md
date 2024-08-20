@@ -45,8 +45,7 @@ Para relembrar um pouco sobre o assunto de **requisitos** olhem os slides [Requi
 - Como conduzir um estudo bibliográfico.  
 - Cuidado com o limite de páginas do projeto.  
   - BCC:  
-    - pré-projeto: ter no máximo 10 (dez) páginas excluindo as referências;  
-    - projeto: ter no máximo 12 (doze) páginas excluindo as referências;  
+    - pré-projeto e projeto: ter no máximo 12 (doze) páginas excluindo as referências;  
     - **Atenção**: ler a breve descrição no próprio projeto.  
 
 - Buscar material para "poder" escrever:
