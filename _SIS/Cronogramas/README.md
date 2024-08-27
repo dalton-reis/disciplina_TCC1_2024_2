@@ -75,17 +75,65 @@ Dia da semana:  Terças (20:20\~22:00)
   
 <!-- \[AVISO] Atendimento SIS: https://github.com/dalton-reis/disciplinaTCC1Privado/projects/1#card-85660899 -->  
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../../BCC/Cronogramas/AtendimentoBCC_A.png "Atendimento BCC")  
+
+20:20~21:00 Terminar [aula05Anotacoes](../Aulas/aula05Anotacoes.md "")  
+  
+21:00~21:05 Gustavo Gonçalves  
+21:05~21:10 Vítor Gabriel Eduardo  
+21:10~21:15 Bruna Lauschner  
+21:15~21:20 Gabriel Theindl Dallarosa  
+21:20~21:25 Kaue Reblin  
+21:25~21:30 Nicole Taufenbach  
+21:30~21:35 João Arthur Pereira Alba  
+21:35~21:40 Victor Do Amaral  
+21:40~21:45 Mauros Milach Junior  
   
 ### Aula_07 16-09-2024  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../../BCC/Cronogramas/AtendimentoBCC_B.png "Atendimento BCC")  
+
+20:20~20:30 Inicio da aula  
+
+20:30~20:35 Victor Weiers Krepsky  
+20:35~20:40 Mauros Milach Junior  
+20:40~20:45 Nicole Bauchspiess  
+20:45~20:50 Rodrigo Kapulka Franco  
+20:50~20:55 Alexandre Zeni  
+20:55~21:00 Nathan Gabriel Piran  
+21:00~21:05 Leonardo Souza Nunes  
+21:05~21:10 Henrique Feliciano de Azevedo  
+21:10~21:15 Leonardo Linhares Silva  
+21:15~21:20 Vinícius Zoz  
+21:20~21:25 Maria Eduarda Krutzsch  
+21:25~21:30 Arthur Bezerra Pinotti  
+21:30~21:35 Leonardo Oliani Fernandes  
+21:35~21:40 Bruno Gabriel de Sousa  
+21:40~21:45 Hiago Campregher  
+21:45~21:50 Leonardo André Lange  
+21:50~21:55 Lorhan Felipe Melo  
   
 ### Aula_08 23-09-2024  ( segunda-feira )  
   
 - Pré-Projeto - Atendimento Individual  
-![Atendimento BCC](../../BCC/Cronogramas/AtendimentoBCC_C.png "Atendimento BCC")  
+
+20:20~20:30 Inicio da aula  
+
+20:30~20:35 Leonardo De Oliveira  
+20:35~20:40 Luan Lavandoski Guarnieri  
+20:40~20:45 Matheus Filipe dos Santos Reinert  
+20:45~20:50 Rossana Rocha da Silva  
+20:50~20:55 Gabriel Toniolo Picaz  
+20:55~21:00 Gabriel Adriano Rodrigues  
+21:00~21:05 Pedro Schumann  
+21:05~21:10 Bruno Hugo Knaesel  
+21:10~21:15 João Henrique Cardoso Bragantino  
+21:15~21:20 Thomas Anderson Rodrigues  
+21:20~21:25 Bernardo Kretzer  
+21:25~21:30 Pedro Henrique de Oliveira Cintra  
+21:30~21:35 Luiz Gustavo Klitzke  
+21:35~21:40 Vinícius Matiola Tramontin  
+21:40~21:45 Julia Letícia Trapp  
+21:45~21:50 Ana Caroline Cipriani dos Santos  
   
 ### Aula_09 30-09-2024  ( segunda-feira )  
   
