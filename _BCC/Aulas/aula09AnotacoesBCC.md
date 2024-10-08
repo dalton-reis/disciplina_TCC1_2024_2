@@ -27,13 +27,14 @@ Mas como parâmetro podem usar:
   1 slide: título, nome aluno, nome orientador e nome coorientador (se houver)  
   1 slide: Introdução  
   1 slide: Objetivo geral e específicos  
+  1 slide: Revisão Sistemática  
+  1 slide: Quadro 1  
   1 slide: Primeiro Trabalho Correlato  
   1 slide: Segundo Trabalho Correlato  
   1 slide: N-Ésimo Trabalho Correlato  
   1 slide: Justificativa  
-  1 slide: Proposta do Aplicativo  
-  1 slide: Requisitos (RFs e RNFs)  
-  1 slide: Quadro cronograma  
+  1 slide: Quadro 5  
+  1 slide: Metodologia  
   1 slide: Revisão Bibliográfica  
   1 slide: Referências  
 
